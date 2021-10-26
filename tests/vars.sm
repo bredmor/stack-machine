@@ -1,0 +1,10 @@
+3
+setv(test)
+6
+setv(testtwo)
+getv(test)
+getv(testtwo)
+add
+pnum
+10
+pchr

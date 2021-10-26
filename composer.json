@@ -1,0 +1,11 @@
+{
+    "name": "bredmor/stackmachine",
+    "description": "A simple stack machine in PHP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Stackmachine\\": "src/"
+        }
+    },
+    "require": {}
+}
